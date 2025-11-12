@@ -1,0 +1,5 @@
+https://exoplanet.eu/catalog/hd_189733_ab--307/
+https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD%20189733b
+https://simbad.cds.unistra.fr/simbad/sim-basic?Ident=HD189733&submit=SIMBAD+search
+
+https://lkreidberg.github.io/batman/docs/html/tutorial.html#tutorial
