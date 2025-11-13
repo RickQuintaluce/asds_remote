@@ -3,3 +3,6 @@ https://simbad.cds.unistra.fr/simbad/sim-id?Ident=HD%20189733b
 https://simbad.cds.unistra.fr/simbad/sim-basic?Ident=HD189733&submit=SIMBAD+search
 
 https://lkreidberg.github.io/batman/docs/html/tutorial.html#tutorial
+
+https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/529/A75/table-af Teff=4800 Z=-0.03
+https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=J/A%2bA/529/A75/tableu //
